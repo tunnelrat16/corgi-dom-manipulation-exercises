@@ -1,3 +1,3 @@
 # 23
 
-Log all the `<li>` DOM elements
+Log all the `src` attributes inside the `<img>` DOM elements
