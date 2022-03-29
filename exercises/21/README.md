@@ -1,3 +1,3 @@
 # 21
 
-Log the `<li>` DOM element
+Log every `<li>` DOM element

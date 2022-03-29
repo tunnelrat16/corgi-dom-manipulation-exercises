@@ -1,3 +1,3 @@
 # 19
 
-Select the `<h1>` and log it
+Select the primary heading and log it

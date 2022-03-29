@@ -1,3 +1,3 @@
 # 20
 
-Select the `<img>` tag and log it
+Select the `<img>` tag by its `src` attribute and log it
